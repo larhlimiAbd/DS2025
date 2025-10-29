@@ -2,7 +2,7 @@
 ## TRAVAUX PRATIQUES 2 : PRÉDICTION DU CHURN CLIENT
 
 ---
-
+<img src="collection.jpeg" style="height:464px;margin-right:432px"/>
 ## 🎯 OBJECTIF DU PROJET
 
 Développer un **système complet de Machine Learning** pour prédire le **churn client** (désabonnement) dans une entreprise de télécommunications.

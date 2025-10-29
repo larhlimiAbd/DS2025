@@ -2,8 +2,8 @@
 # COURS DE SCIENCE DES DONNÉES
 ## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
 
+https://github.com/larhlimiAbd/DS2025/blob/da38c66ea4747a8c213f1a2837fbb3eac2fd4edc/TestImage.png
 
-<img src="collection.jpeg" style="height:464px;margin-right:432px"/>
 # A. Larhlimi
 ---
 

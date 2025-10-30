@@ -7,6 +7,7 @@
 #  A. Larhlimi
 
 
+<img src="Testimage.jpg" style="height:164px;margin-right:132px"/>
 ---
 
 ## 1. Introduction et Contexte

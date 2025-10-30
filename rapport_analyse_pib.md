@@ -7,7 +7,9 @@
 #  A. Larhlimi
 
 
-<img src="Testimage.png" style="height:464px;margin-right:432px"/>
+
+
+![Analyse statistique](TestImage.png)
 ---
 
 ## 1. Introduction et Contexte

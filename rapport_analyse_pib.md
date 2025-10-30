@@ -587,3 +587,8 @@ Cette analyse comparative du PIB de 8 pays majeurs sur la période 2015-2024 ré
 **Pour les pays en difficulté (Japon, Brésil)** :
 - **Japon** : Vieillissement extrême, déflation persistante
 - **Brésil** : Instabilité politique, dép
+
+
+
+
+![Test Image](i1.png)

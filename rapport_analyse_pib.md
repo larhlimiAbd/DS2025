@@ -1,6 +1,12 @@
 # Rapport d'Analyse Comparative du PIB International
 ## Étude Économique Approfondie de 8 Pays (2015-2024)
 
+
+
+
+#  A. Larhlimi
+
+
 ---
 
 ## 1. Introduction et Contexte
